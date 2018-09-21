@@ -1,0 +1,144 @@
+_repo: Modern-Poets-and-Poetry-of-Spain_53671
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Heredia, José María
+    aliases:
+    - Heredia, José María Heredia y
+    - Heredia, Jose Maria
+    birthdate: 1803
+    deathdate: 1839
+    gutenberg_agent_id: '49560'
+    url: http://www.gutenberg.org/2009/agents/49560
+  - agent_name: Meléndez Valdés, Juan
+    aliases:
+    - Valdés, Juan Meléndez
+    - Melendez Valdes, Juan
+    birthdate: 1754
+    deathdate: &id001 1817
+    gutenberg_agent_id: '49554'
+    url: http://www.gutenberg.org/2009/agents/49554
+  - agent_name: Rivas, Angel de Saavedra, duque de
+    aliases:
+    - Baquedano, Angel Perez de Saavedra Ramirez de Madrid Remirez de, duque de Rivas
+    - Baquedano, Angel Pérez de Saavedra Ramírez de Madrid Remírez de, duque de Rivas
+    - Saavedra, Angel de, duque de Rivas
+    birthdate: &id002 1791
+    deathdate: 1865
+    gutenberg_agent_id: '49558'
+    url: http://www.gutenberg.org/2009/agents/49558
+  - agent_name: Kennedy, James
+    deathdate: 1859
+    gutenberg_agent_id: '47319'
+    url: http://www.gutenberg.org/2009/agents/47319
+  - agent_name: Jovellanos, Gaspar de
+    aliases:
+    - Ramírez, Gaspar Melchor de Jovellanos y
+    - Ramirez, Gaspar Melchor de Jovellanos y
+    - Jovellanos, Gaspar Melchor de
+    - De Jovellanos, Gaspar
+    birthdate: 1744
+    deathdate: 1811
+    gutenberg_agent_id: '47340'
+    url: http://www.gutenberg.org/2009/agents/47340
+  - agent_name: Fernández de Moratín, Leandro
+    aliases:
+    - Cabo-Conde, Leandro Fernández de Moratín y
+    - Posadilla, Gines de
+    - Celenio, Inarco
+    - Fernandez de Moratin, Leandro
+    - Posadilla, Ginés de
+    - Moratín, Leandro Fernández de
+    birthdate: 1760
+    deathdate: 1828
+    gutenberg_agent_id: '44209'
+    url: http://www.gutenberg.org/2009/agents/44209
+    wikipedia: http://en.wikipedia.org/wiki/Leandro_Fern%C3%A1ndez_de_Morat%C3%ADn
+  - agent_name: Martínez de la Rosa, Francisco
+    aliases:
+    - Arroyó, Francisco de Paula Martínez de la Rosa Berdejo y Gómez
+    - De la Rosa, Francisco Martínez
+    - Gomez y Arroyó, Francisco de Paula Martínez de la Rosa Berdejo
+    - Arroyo, Francisco de Paula Martinez de la Rosa Berdejo y Gomez
+    - La Rosa, Francisco Martínez de
+    - Berdejo Gómez y Arroyó, Francisco de Paula Martínez de la Rosa
+    - Paula Martínez de la Rosa Berdejo y Gómez y Arroyó, Francisco de
+    - Rosa, Francisco Martínez de la
+    birthdate: 1787
+    deathdate: 1862
+    gutenberg_agent_id: '49557'
+    url: http://www.gutenberg.org/2009/agents/49557
+  - agent_name: Zorrilla, José
+    aliases:
+    - Zorilla, José
+    - Moral, José Zorrilla y
+    - Zorrilla, Jose
+    birthdate: *id001
+    deathdate: 1893
+    gutenberg_agent_id: '1737'
+    url: http://www.gutenberg.org/2009/agents/1737
+    wikipedia: http://en.wikipedia.org/wiki/José_Zorrilla_y_Moral
+  - agent_name: Bretón de los Herreros, Manuel
+    aliases:
+    - Los Herreros, Manuel Bretón de
+    - Herreros, Manuel Bretón de los
+    - Breton de los Herreros, Manuel
+    birthdate: 1796
+    deathdate: 1873
+    gutenberg_agent_id: '49559'
+    url: http://www.gutenberg.org/2009/agents/49559
+  - agent_name: Iriarte, Tomás de
+    aliases:
+    - Yriarte, Tomás de
+    - Cisneros, Francisco Agustin de
+    - De Iriarte, Tomás
+    - Iriarte, Tomas de
+    - Oropesa, Tomás de Iriarte y
+    - Cisnéros, Francisco Agustín de
+    birthdate: 1750
+    deathdate: *id002
+    gutenberg_agent_id: '33948'
+    url: http://www.gutenberg.org/2009/agents/33948
+    wikipedia: http://es.wikipedia.org/wiki/Tom%C3%A1s_de_Iriarte
+  - agent_name: Quintana, Manuel José
+    alias: Lorenzo, Manuel José Quintana y
+    birthdate: 1772
+    deathdate: 1857
+    gutenberg_agent_id: '49556'
+    url: http://www.gutenberg.org/2009/agents/49556
+  - agent_name: Espronceda, José de
+    aliases:
+    - De Espronceda, José
+    - Lara, José Ignacio Xabier de Espronceda y
+    - Delgado, José de Espronceda y
+    - Espronceda, Jose de
+    birthdate: 1808
+    deathdate: 1842
+    gutenberg_agent_id: '6295'
+    url: http://www.gutenberg.org/2009/agents/6295
+    wikipedia: http://en.wikipedia.org/wiki/Jos%C3%A9_de_Espronceda
+  - agent_name: Arriaza, Juan Bautista
+    aliases:
+    - Arriaza, J. B. de (Juan Bautista)
+    - De Arriaza, Juan Bautista
+    birthdate: 1770
+    deathdate: 1837
+    gutenberg_agent_id: '49555'
+    url: http://www.gutenberg.org/2009/agents/49555
+description: ''
+gutenberg_issued: '2016-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, Spanish'
+- !lcsh 'Spanish poetry -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Spanish poetry -- History and criticism'
+- GITenberg
+title: Modern Poets and Poetry of Spain
+url: http://www.gutenberg.org/ebooks/53671
