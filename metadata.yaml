@@ -1,5 +1,8 @@
 _repo: Modern-Poets-and-Poetry-of-Spain_53671
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53671-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Heredia, José María
@@ -15,7 +18,7 @@ creator:
     - Valdés, Juan Meléndez
     - Melendez Valdes, Juan
     birthdate: 1754
-    deathdate: &id001 1817
+    deathdate: 1817
     gutenberg_agent_id: '49554'
     url: http://www.gutenberg.org/2009/agents/49554
   - agent_name: Rivas, Angel de Saavedra, duque de
@@ -23,7 +26,7 @@ creator:
     - Baquedano, Angel Perez de Saavedra Ramirez de Madrid Remirez de, duque de Rivas
     - Baquedano, Angel Pérez de Saavedra Ramírez de Madrid Remírez de, duque de Rivas
     - Saavedra, Angel de, duque de Rivas
-    birthdate: &id002 1791
+    birthdate: 1791
     deathdate: 1865
     gutenberg_agent_id: '49558'
     url: http://www.gutenberg.org/2009/agents/49558
@@ -73,7 +76,7 @@ creator:
     - Zorilla, José
     - Moral, José Zorrilla y
     - Zorrilla, Jose
-    birthdate: *id001
+    birthdate: 1817
     deathdate: 1893
     gutenberg_agent_id: '1737'
     url: http://www.gutenberg.org/2009/agents/1737
@@ -96,7 +99,7 @@ creator:
     - Oropesa, Tomás de Iriarte y
     - Cisnéros, Francisco Agustín de
     birthdate: 1750
-    deathdate: *id002
+    deathdate: 1791
     gutenberg_agent_id: '33948'
     url: http://www.gutenberg.org/2009/agents/33948
     wikipedia: http://es.wikipedia.org/wiki/Tom%C3%A1s_de_Iriarte
@@ -126,6 +129,8 @@ creator:
     gutenberg_agent_id: '49555'
     url: http://www.gutenberg.org/2009/agents/49555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53671#Modern-Poets-and-Poetry-of-Spain
 gutenberg_issued: '2016-12-05'
 gutenberg_type: Text
 identifiers:
